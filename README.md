@@ -59,7 +59,7 @@ Cheems Bot Multi Device is a whatsapp bot developed by <a href="https://github.c
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD11/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Charlottebots/CHEEMS_BOT_V14/fork)
 
 ## `Generate Pair Code For Session`
 [![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Xeon-PairCode)
